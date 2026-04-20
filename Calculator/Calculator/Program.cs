@@ -1,5 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using Calculator;
 
+metoder m = new metoder();
 
-static int add(int a, int b) { return a + b; }
+string input = Console.ReadLine();
+int.TryParse(input, out int input_a);
+Console.WriteLine("+");
+input = Console.ReadLine();
+int.TryParse(input, out int input_b);
+Console.WriteLine(m.add(input_a, input_b));

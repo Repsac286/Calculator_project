@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Casp8\\OneDrive\\Skrivebord\\HF1\\Calculator_project\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|c:\\users\\casp8\\onedrive\\skrivebord\\hf1\\calculator_project\\calculator\\calculator\\metoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|solutionrelative:calculator\\metoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|c:\\users\\casp8\\onedrive\\skrivebord\\hf1\\calculator_project\\calculator\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|c:\\users\\casp8\\onedrive\\skrivebord\\hf1\\calculator_project\\calculator\\calculator\\metoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3657B21E-E134-4437-BE34-ED4B5C415167}|Calculator\\Calculator.csproj|solutionrelative:calculator\\metoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "metoder.cs",
               "DocumentMoniker": "C:\\Users\\Casp8\\OneDrive\\Skrivebord\\HF1\\Calculator_project\\Calculator\\Calculator\\metoder.cs",
               "RelativeDocumentMoniker": "Calculator\\metoder.cs",
               "ToolTip": "C:\\Users\\Casp8\\OneDrive\\Skrivebord\\HF1\\Calculator_project\\Calculator\\Calculator\\metoder.cs",
               "RelativeToolTip": "Calculator\\metoder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T10:24:46.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Casp8\\OneDrive\\Skrivebord\\HF1\\Calculator_project\\Calculator\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",
               "ToolTip": "C:\\Users\\Casp8\\OneDrive\\Skrivebord\\HF1\\Calculator_project\\Calculator\\Calculator\\Program.cs",
               "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-20T10:14:54.788Z",
               "EditorCaption": ""
