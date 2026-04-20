@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿﻿// See https://aka.ms/new-console-template for more information
 using Calculator;
 double result = 0;
 metoder m = new metoder();
@@ -28,3 +28,4 @@ switch (operation)
     }
 
 Console.WriteLine($"Resultatet er: {result}");
+
