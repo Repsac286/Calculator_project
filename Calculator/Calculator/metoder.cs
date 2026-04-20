@@ -11,7 +11,14 @@ namespace Calculator
         private int a;
         private int b;
 
+        public int multiplaier(int a, int b)
+        {
+            return a * b;
+        }
 
-        
+        public int divider(int a, int b)
+        {
+            return a / b;
+        }
     }
 }
