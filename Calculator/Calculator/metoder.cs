@@ -11,12 +11,12 @@ namespace Calculator
         private int a;
         private int b;
 
-        public int multiplaier(int a, int b)
+        public int multiplayer(int a, int b)
         {
             return a * b;
         }
 
-        public int divider(int a, int b)
+        public int division(int a, int b)
         {
             return a / b;
         }
